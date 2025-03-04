@@ -1,7 +1,3 @@
-Here’s a cleaner, more structured version of your GitHub bio:  
-
----
-
 ##  **Tech Arsenal**  
 <sup>_Tools & technologies I work with:_</sup>  
 
