@@ -1,22 +1,12 @@
 ##  **Tech Arsenal**  
-<sup>_Tools & technologies I work with:_</sup>  
+Tools & technologies I work with:
 
 - **Framework:** Next.js  
 - **State Management:** React Hooks, Zustand, TanStack Query  
 - **Styling:** Tailwind CSS, Styled Components  
 - **Backend:** Node.js, Prisma, Rust  
-- **Deployment:** Vercel, Docker, Nginx  
-
----  
-
-##  **Coding Philosophy**  
-```typescript
-const developmentMantra = {
-  principle: "Build efficiently, iterate quickly, and always improve.",
-  favoriteCoffee: "Espresso && TypeScript.brew()",
-  motivation: "Crafting seamless, interactive web experiences."
-};
-```  
+- **Deployment:** Vercel, Docker, Nginx
+- 
  Passionate about building **scalable, performant, and user-friendly** applications.  
  Always exploring new technologies and optimizing workflows.  
 
