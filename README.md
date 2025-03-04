@@ -1,4 +1,4 @@
-##Tools & technologies I work with:##
+## Tools & technologies I work with: ##
 
 - **Framework:** Next.js  
 - **State Management:** React Hooks, Zustand, TanStack Query  
