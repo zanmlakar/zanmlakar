@@ -1,4 +1,3 @@
-##  **Tech Arsenal**  
 Tools & technologies I work with:
 
 - **Framework:** Next.js  
