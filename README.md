@@ -1,14 +1,19 @@
-Tech Arsenal
+## Tech Arsenal  
+Framework: Next.js 
+State Management: React Hooks, Zustand, Tanstack
+Styling: Tailwind CSS, Styled Components
+Backend: Node.js, Prisma, Rust
+Deployment: Vercel, Docker, nginx
 
-Framework Superpower: Next.js 💥
-State Management Ninja: React Hooks, Redux, Zustand
-Styling Sorcery: Tailwind CSS, Styled Components
-Backend Backup: Node.js, Prisma, tRPC
-Deployment Deity: Vercel, Docker, Kubernetes
-
-Coding Philosophy
-typescriptCopyconst developmentMantra = {
-  principle: 'Build fast, break things, learn faster',
-  favoriteCoffee: 'Espresso && TypeScript.brew()',
-  motivation: '✨ Make the web a more interactive place ✨'
+## Coding Philosophy
+```typescript
+const developmentMantra = {
+  principle: "Build efficiently, iterate quickly, and always improve.",
+  favoriteCoffee: "Espresso && TypeScript.brew()",
+  motivation: "Crafting seamless, interactive web experiences."
 }
+```
+Passionate about building scalable, performant, and user-friendly applications.
+Always exploring new technologies and optimizing workflows.
+
+Let's connect and create something amazing! 🚀
