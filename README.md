@@ -2,7 +2,7 @@
 
 - **Framework:** Next.js  
 - **State Management:** React Hooks, Zustand, TanStack Query  
-- **Styling:** Tailwind CSS, Styled Components  
+- **Styling:** Tailwind CSS, Framer-motion
 - **Backend:** Node.js, Prisma, Rust  
 - **Deployment:** Vercel, Docker, Nginx
   
