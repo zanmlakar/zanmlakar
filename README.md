@@ -8,6 +8,6 @@ Tools & technologies I work with:
 - **Deployment:** Vercel, Docker, Nginx
   
  Passionate about building **scalable, performant, and user-friendly** applications.  
- Always exploring new technologies and optimizing workflows.  
+ Always exploring new technologies.
 
 **Let's connect and build something amazing!**
