@@ -2,7 +2,7 @@ Here’s a cleaner, more structured version of your GitHub bio:
 
 ---
 
-## 🚀 **Tech Arsenal**  
+##  **Tech Arsenal**  
 <sup>_Tools & technologies I work with:_</sup>  
 
 - **Framework:** Next.js  
@@ -13,7 +13,7 @@ Here’s a cleaner, more structured version of your GitHub bio:
 
 ---  
 
-## 💡 **Coding Philosophy**  
+##  **Coding Philosophy**  
 ```typescript
 const developmentMantra = {
   principle: "Build efficiently, iterate quickly, and always improve.",
@@ -21,11 +21,7 @@ const developmentMantra = {
   motivation: "Crafting seamless, interactive web experiences."
 };
 ```  
-🚀 Passionate about building **scalable, performant, and user-friendly** applications.  
-🔍 Always exploring new technologies and optimizing workflows.  
+ Passionate about building **scalable, performant, and user-friendly** applications.  
+ Always exploring new technologies and optimizing workflows.  
 
 **Let's connect and build something amazing!** 🚀  
-
----
-
-This keeps it **professional, clean, and easy to read**, while maintaining your personality. Let me know if you want any tweaks! 😊
