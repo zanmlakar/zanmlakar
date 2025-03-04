@@ -1,16 +1,14 @@
-## Hi there 👋
+Tech Arsenal
 
-<!--
-**zanmlakar/zanmlakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Framework Superpower: Next.js 💥
+State Management Ninja: React Hooks, Redux, Zustand
+Styling Sorcery: Tailwind CSS, Styled Components
+Backend Backup: Node.js, Prisma, tRPC
+Deployment Deity: Vercel, Docker, Kubernetes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coding Philosophy
+typescriptCopyconst developmentMantra = {
+  principle: 'Build fast, break things, learn faster',
+  favoriteCoffee: 'Espresso && TypeScript.brew()',
+  motivation: '✨ Make the web a more interactive place ✨'
+}
