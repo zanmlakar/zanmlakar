@@ -24,4 +24,4 @@ const developmentMantra = {
  Passionate about building **scalable, performant, and user-friendly** applications.  
  Always exploring new technologies and optimizing workflows.  
 
-**Let's connect and build something amazing!** 🚀  
+**Let's connect and build something amazing!**
