@@ -3,7 +3,7 @@ Tools & technologies I work with:
     Framework: Next.js
     State Management: React Hooks, Zustand, TanStack Query
     Styling: Tailwind CSS, Framer-motion
-    Backend: Node.js, Prisma, Rust
+    Backend: Node.js, Prisma,
     Deployment: Vercel, Docker, Nginx
 
 Passionate about building scalable, performant, and user-friendly applications.
